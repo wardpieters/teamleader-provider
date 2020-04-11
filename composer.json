@@ -1,0 +1,19 @@
+{
+    "name": "wardpieters/teamleader-provider",
+    "description": "Teamleader OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Ward Pieters",
+        "email": "ward@wardpieters.nl"
+    }],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "~2.0 || ~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\Teamleader\\": ""
+        }
+    }
+}
