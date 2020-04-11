@@ -1,6 +1,7 @@
 {
     "name": "wardpieters/teamleader-provider",
     "description": "Teamleader OAuth2 Provider for Laravel Socialite",
+    "version": "1.0",
     "license": "MIT",
     "authors": [{
         "name": "Ward Pieters",
